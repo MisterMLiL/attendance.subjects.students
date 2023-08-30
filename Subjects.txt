@@ -1,1 +1,7 @@
+
+Качество программного обеспечения и тестирование (Лекц)
+Федяев О. И.
+13.06.2024
+False/False/True/True/False/True/False/True/False/False/False/False/False/False/False/False/False/False/False/False/False/False
+4
 EndFile
