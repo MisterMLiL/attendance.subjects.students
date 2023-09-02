@@ -1,1 +1,7 @@
+
+Математические метода исследования операций (Лаб)
+Боднар А. В./Дмитрюк Т. Г.
+01.09.2023
+True/False/True/False/True/True/True/True/True/True/False/True/True/True/True/True/True/True/False/True/False/True/True
+18
 EndFile
