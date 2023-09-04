@@ -4,4 +4,28 @@
 01.09.2023
 True/False/True/False/True/True/True/True/True/True/False/True/True/True/True/True/True/True/False/True/False/True/True
 18
+
+Менеджмент (У)
+Маренич М.К.
+04.09.2023
+True/False/True/False/True/True/True/True/True/True/False/False/True/True/True/True/True/False/False/True/False/True/True
+16
+
+Качество программного обеспечения и тестирование (Лаб)
+Федяев О. И./Ищенко А. П.
+04.09.2023
+True/False/False/True/True/True/False/True/True/True/False/False/True/True/True/True/True/False/False/True/False/True/True
+15
+
+Безопасность программ и данных (Лекц)
+Чернышова А. В.
+04.09.2023
+True/False/True/True/True/True/False/True/True/True/False/False/True/True/True/True/True/False/False/True/False/True/True
+16
+
+Менеджмент проектов программного обеспечения (Лекц)
+Боднар А. В.
+04.09.2023
+True/False/True/False/True/True/False/True/True/True/False/False/True/True/True/True/False/True/True/True/False/True/True
+16
 EndFile
