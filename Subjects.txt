@@ -28,4 +28,52 @@ True/False/True/True/True/True/False/True/True/True/False/False/True/True/True/T
 04.09.2023
 True/False/True/False/True/True/False/True/True/True/False/False/True/True/True/True/False/True/True/True/False/True/True
 16
+
+Системное программирование (Лекц)
+Коломойцева И. А.
+05.09.2023
+True/False/True/True/True/True/False/True/True/True/False/False/True/True/True/True/True/False/False/True/False/True/True
+16
+
+Системное программирование (Лаб)
+Коломойцева И. А./Филипишин Д. А.
+05.09.2023
+True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/False/True/True
+22
+
+Математические метода исследования операций (Лекц)
+Боднар А. В.
+05.09.2023
+True/False/True/True/True/True/True/False/True/True/False/False/True/True/True/True/True/True/True/True/False/True/True
+18
+
+Языки и системы иммитационного моделирования (Лекц)
+Григорьев А. В.
+06.09.2023
+True/False/True/True/True/True/False/True/True/True/False/False/True/True/True/True/True/True/False/True/False/False/True
+16
+
+Менеджмент (Лекц)
+Жильченко В. В.
+06.09.2023
+True/False/True/False/True/True/True/True/True/True/False/False/True/True/True/True/True/True/False/True/False/True/True
+17
+
+Экономика программного обеспечения (Лаб)
+Рычка О. В./Ищенко А. П.
+06.09.2023
+True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/False/True/True
+22
+
+Качество программного обеспечения и тестирование (Лекц)
+Федяев О. И.
+07.09.2023
+True/False/True/True/True/True/True/True/False/True/False/False/True/True/True/False/True/True/False/True/False/True/True
+16
+
+Безопасность программ и данных (Лаб)
+Чернышова А. В./Московченко А. В.
+07.09.2023
+True/False/True/True/True/True/False/True/False/True/False/False/True/True/True/False/True/True/False/True/False/True/True
+15
 EndFile
