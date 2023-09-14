@@ -118,4 +118,34 @@ True/False/True/True/True/True/False/False/False/True/False/False/True/True/True
 12.09.2023
 True/False/True/True/True/True/False/True/True/True/False/False/True/True/True/True/True/True/False/True/False/True/True/True
 17
+
+Математические метода исследования операций (Лекц)
+Боднар А. В.
+12.09.2023
+True/False/True/True/True/True/False/True/True/True/False/False/True/True/True/False/True/True/False/True/False/False/True/False
+15
+
+Языки и системы иммитационного моделирования (Лекц)
+Григорьев А. В.
+13.09.2023
+True/False/True/True/True/True/False/True/False/True/False/False/True/True/True/True/True/True/False/True/False/True/True/True
+17
+
+Менеджмент (Лекц)
+Жильченко В. В.
+13.09.2023
+True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/True/False/True/True/True
+23
+
+Качество программного обеспечения и тестирование (Лекц)
+Федяев О. И.
+14.09.2023
+True/False/True/True/True/True/False/True/False/True/False/False/True/True/True/True/True/True/False/True/False/True/True/True
+17
+
+Безопасность программ и данных (Лаб)
+Чернышова А. В./Московченко А. В.
+14.09.2023
+True/False/True/True/True/True/False/False/False/True/False/False/True/True/True/True/False/False/False/True/False/True/True/False
+13
 EndFile
